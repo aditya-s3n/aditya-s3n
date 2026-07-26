@@ -1,4 +1,14 @@
-## Hi there 👋
+## Hi, I'm Aditya 👋
+Currently pursuing a degree in Computer Engineering from the University of Waterloo! 🎓 <br>
+Graduating class of 2028.
+
+Chasing to be a **graphics programmer** 🎮 :)
+
+Passionate about real-time rendering, VFX, systems programming, and memory allocators. <br>
+🔍 Interested in RTL engineering and GPU architecture.
+
+<br>Want to find out more about me? 🌐
+[Personal Website](https://aditya-sen.com)
 
 <!--
 **aditya-s3n/aditya-s3n** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
